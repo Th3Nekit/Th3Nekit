@@ -6,7 +6,7 @@
 
 `16 y.o.` · `Python` · `Telegram Bots` · `Self-Hosted Infra`
 
-[![Website](https://img.shields.io/badge/th3web.ru-portfolio-7C5CFC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://th3web.ru/author/)
+[![Website](https://img.shields.io/badge/th3web.com-portfolio-7C5CFC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://th3web.com/author/)
 [![Telegram](https://img.shields.io/badge/@th3nekit-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/th3nekit)
 [![Spotify](https://img.shields.io/badge/spotify-profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31cpmx7kalltfi2ol7xlccdbsdc24)
 [![Donate](https://img.shields.io/badge/DonationAlerts-support-E4405F?style=for-the-badge&logo=donationalerts&logoColor=white)](https://www.donationalerts.com/c/th3_nekit)
@@ -49,10 +49,10 @@
 
 #### ⭐ Lean — Android VPN client
 
-My own client over a **sing-box** fork — **AmneziaWG** + DPI bypass, subscription & `.conf` import,
-auto-fastest server, ping checks, dark / AMOLED themes. Signed release built in CI.
+My own client over **NekoBox** (a sing-box fork) — **AmneziaWG** + DPI bypass, subscription & `.conf`
+import, auto-fastest server, and a deep live-preview theme editor (colors, fonts, presets).
 
-`Kotlin` · `Jetpack Compose` · `sing-box` · `AmneziaWG`
+`Kotlin` · `Jetpack Compose` · `NekoBox` · `AmneziaWG`
 
 [![Download APK](https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Th3Nekit/Lean/releases/latest)
 [![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Th3Nekit/Lean)
@@ -72,7 +72,7 @@ auto-fastest server, ping checks, dark / AMOLED themes. Signed release built in 
 
 ```
 🇷🇺 Saint Petersburg #1  ─  VPN bot, subscriptions, NAT forwarding    (beget.com)
-🇩🇪 Germany              ─  Main VPS, 3x-ui, web backend            (play2go.cloud)
+🇩🇪 Germany              ─  Main VPS, Remnawave, web backend        (play2go.cloud)
 🇷🇺 Saint Petersburg #2  ─  Backup node, ready for DNS failover     (sprinthost.ru)
 ```
 
@@ -95,7 +95,7 @@ auto-fastest server, ping checks, dark / AMOLED themes. Signed release built in 
 2023  👑 PcControl — where it all started
 2024  📚 Automation, CTF, first real scripts
 2025  💬 Th3Cord — custom messenger with calls & video
-2026  📱 Lean — own Android VPN client · 3 servers in prod · full-stack
+2026  📱 Lean — own Android VPN client · own infra · full-stack
 ```
 
 <br/>
