@@ -32,7 +32,7 @@ function manualNames(config) {
 }
 function workflowToken(env) {
   const token = env.GITHUB_TOKEN || env.GH_TOKEN || '';
-  if (token && (typeof token !== 'string' || !/^ghs_[a-z\d_]+$/i.test(token))) fail('Only a workflow installation token (ghs_) is accepted; omit the token for anonymous public REST');
+  if (token && (typeof token !== 'string' || !/^ghs_[a-z\d_.-]+$/i.test(token))) fail('Only a workflow installation token (ghs_) is accepted; omit the token for anonymous public REST');
   return token;
 }
 async function limitedBytes(response, limit, label) {
