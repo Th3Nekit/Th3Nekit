@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Th3Nekit",
-  "capturedAt": "2026-10-19T20:31:30.268Z",
+  "capturedAt": "2026-10-20T01:47:52.678Z",
   "publicOnly": true,
   "statsPublicOnly": true,
   "data": {
@@ -84,16 +84,16 @@
         124373
       ],
       [
+        "JavaScript",
+        91912
+      ],
+      [
         "Objective-C",
         84234
       ],
       [
         "HTML",
         65934
-      ],
-      [
-        "JavaScript",
-        49845
       ],
       [
         "Raku",
@@ -327,7 +327,7 @@
         "text": "Profile README",
         "fork": false,
         "stars": 1,
-        "language": null,
+        "language": "JavaScript",
         "topics": [],
         "visibility": "PUBLIC"
       },
