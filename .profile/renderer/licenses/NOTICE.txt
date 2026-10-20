@@ -1,0 +1,13 @@
+Expressive Profile offline integration
+Upstream: https://github.com/metawka/expressive-profile
+Commit: 72384999ce9e902c0ab3222a481f7fd0931497e6
+MIT Copyright (c) 2026 metawka. See expressive-profile-MIT.txt.
+
+Fonts embedded without modification: Google Sans Flex subset and Roboto Flex Cyrillic, SIL OFL 1.1.
+Material Color Utilities 0.4.0 and Material Symbols svg-400 0.48.0: Apache-2.0.
+Simple Icons 16.35.0: CC0-1.0 collection; brand-specific license and trademark metadata may apply, see icon-metadata.json in the packaged runtime.
+Build tools and remaining dependency license texts are in dependencies/.
+The dependency inventory includes optional platform packages not installed on this Windows host.
+
+Scratch-only upstream changes: bounded word splitting/Unicode-safe ellipsis in kit.ts; two-line long hero titles and fitted greetings in blocks.ts. Native stats are replaced by public counters; contribution calendar and streak are omitted.
+No upstream CLI, GraphQL client, login proxy or Git write/push code is included.

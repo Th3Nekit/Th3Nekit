@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "login": "Th3Nekit",
+  "capturedAt": "2026-10-19T20:31:30.268Z",
+  "publicOnly": true,
+  "statsPublicOnly": true,
+  "data": {
+    "followers": 5,
+    "languages": [
+      [
+        "Java",
+        77377834
+      ],
+      [
+        "C++",
+        40836339
+      ],
+      [
+        "C",
+        17171990
+      ],
+      [
+        "Assembly",
+        6188827
+      ],
+      [
+        "Kotlin",
+        3319963
+      ],
+      [
+        "Rust",
+        2685001
+      ],
+      [
+        "Go",
+        2232290
+      ],
+      [
+        "Perl",
+        1989748
+      ],
+      [
+        "Python",
+        655254
+      ],
+      [
+        "Objective-C++",
+        622970
+      ],
+      [
+        "TypeScript",
+        423968
+      ],
+      [
+        "CMake",
+        321579
+      ],
+      [
+        "Swift",
+        277583
+      ],
+      [
+        "Starlark",
+        180447
+      ],
+      [
+        "PowerShell",
+        172592
+      ],
+      [
+        "Makefile",
+        158148
+      ],
+      [
+        "NASL",
+        151797
+      ],
+      [
+        "Shell",
+        148921
+      ],
+      [
+        "GLSL",
+        124373
+      ],
+      [
+        "Objective-C",
+        84234
+      ],
+      [
+        "HTML",
+        65934
+      ],
+      [
+        "JavaScript",
+        49845
+      ],
+      [
+        "Raku",
+        23869
+      ],
+      [
+        "MATLAB",
+        15853
+      ],
+      [
+        "Just",
+        10516
+      ],
+      [
+        "Dockerfile",
+        5953
+      ],
+      [
+        "CSS",
+        3304
+      ],
+      [
+        "Linker Script",
+        657
+      ],
+      [
+        "Batchfile",
+        417
+      ]
+    ],
+    "pins": [
+      {
+        "name": "Finegram",
+        "url": "https://github.com/Th3Nekit/Finegram",
+        "text": "Finegram — клиент Telegram для Android на базе Cherrygram. Плагины, обход блокировок и настройки оформления.",
+        "fork": false,
+        "stars": 7,
+        "language": "Java",
+        "topics": [
+          "android",
+          "cherrygram",
+          "finegram",
+          "java",
+          "kotlin",
+          "plugins",
+          "telegram",
+          "telegram-client"
+        ],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lean",
+        "url": "https://github.com/Th3Nekit/Lean",
+        "text": "Lean — VPN-клиент для Android: обход блокировок, свои подписки и конфиги, AmneziaWG/XHTTP/NaiveProxy. GPL-3.0.",
+        "fork": false,
+        "stars": 31,
+        "language": "Kotlin",
+        "topics": [
+          "amneziawg",
+          "android",
+          "censorship-circumvention",
+          "jetpack-compose",
+          "kotlin",
+          "proxy",
+          "sing-box",
+          "vpn",
+          "xray"
+        ],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Th3ProxyTools",
+        "url": "https://github.com/Th3Nekit/Th3ProxyTools",
+        "text": "exteraGram proxy manager plugin — mass ping, geo flags, import/export",
+        "fork": false,
+        "stars": 8,
+        "language": null,
+        "topics": [],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "pc-control-telegram",
+        "url": "https://github.com/Th3Nekit/pc-control-telegram",
+        "text": "Async Telegram bot on aiogram 3 for remote Windows PC control: system info, power management, screenshots, clipboard, cursor control, Wi-Fi, speedtest, weather. Owner-only security, CustomTkinter settings GUI.",
+        "fork": false,
+        "stars": 2,
+        "language": "Python",
+        "topics": [
+          "aiogram",
+          "asyncio",
+          "automation",
+          "customtkinter",
+          "pc-control",
+          "portfolio-project",
+          "psutil",
+          "pyautogui",
+          "python",
+          "remote-control",
+          "telegram-bot",
+          "windows"
+        ],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "PinterestSaver",
+        "url": "https://github.com/Th3Nekit/PinterestSaver",
+        "text": "GUI app to batch download Pinterest pins in best quality (Flet/Python)",
+        "fork": false,
+        "stars": 3,
+        "language": "Python",
+        "topics": [],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Socks5Hotspot",
+        "url": "https://github.com/Th3Nekit/Socks5Hotspot",
+        "text": "Share Wi-Fi hotspot through SOCKS5/VPN via sing-box + ICS on Windows",
+        "fork": false,
+        "stars": 2,
+        "language": "PowerShell",
+        "topics": [],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "FileConverter",
+        "url": "https://github.com/Th3Nekit/FileConverter",
+        "text": "File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.",
+        "fork": true,
+        "stars": 17,
+        "language": "C#",
+        "topics": [],
+        "visibility": "PUBLIC"
+      }
+    ],
+    "all": [
+      {
+        "name": "FileConverter",
+        "url": "https://github.com/Th3Nekit/FileConverter",
+        "text": "File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.",
+        "fork": true,
+        "stars": 17,
+        "language": "C#",
+        "topics": [],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Finegram",
+        "url": "https://github.com/Th3Nekit/Finegram",
+        "text": "Finegram — клиент Telegram для Android на базе Cherrygram. Плагины, обход блокировок и настройки оформления.",
+        "fork": false,
+        "stars": 7,
+        "language": "Java",
+        "topics": [
+          "android",
+          "cherrygram",
+          "finegram",
+          "java",
+          "kotlin",
+          "plugins",
+          "telegram",
+          "telegram-client"
+        ],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lean",
+        "url": "https://github.com/Th3Nekit/Lean",
+        "text": "Lean — VPN-клиент для Android: обход блокировок, свои подписки и конфиги, AmneziaWG/XHTTP/NaiveProxy. GPL-3.0.",
+        "fork": false,
+        "stars": 31,
+        "language": "Kotlin",
+        "topics": [
+          "amneziawg",
+          "android",
+          "censorship-circumvention",
+          "jetpack-compose",
+          "kotlin",
+          "proxy",
+          "sing-box",
+          "vpn",
+          "xray"
+        ],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "pc-control-telegram",
+        "url": "https://github.com/Th3Nekit/pc-control-telegram",
+        "text": "Async Telegram bot on aiogram 3 for remote Windows PC control: system info, power management, screenshots, clipboard, cursor control, Wi-Fi, speedtest, weather. Owner-only security, CustomTkinter settings GUI.",
+        "fork": false,
+        "stars": 2,
+        "language": "Python",
+        "topics": [
+          "aiogram",
+          "asyncio",
+          "automation",
+          "customtkinter",
+          "pc-control",
+          "portfolio-project",
+          "psutil",
+          "pyautogui",
+          "python",
+          "remote-control",
+          "telegram-bot",
+          "windows"
+        ],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "PinterestSaver",
+        "url": "https://github.com/Th3Nekit/PinterestSaver",
+        "text": "GUI app to batch download Pinterest pins in best quality (Flet/Python)",
+        "fork": false,
+        "stars": 3,
+        "language": "Python",
+        "topics": [],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Socks5Hotspot",
+        "url": "https://github.com/Th3Nekit/Socks5Hotspot",
+        "text": "Share Wi-Fi hotspot through SOCKS5/VPN via sing-box + ICS on Windows",
+        "fork": false,
+        "stars": 2,
+        "language": "PowerShell",
+        "topics": [],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Th3Nekit",
+        "url": "https://github.com/Th3Nekit/Th3Nekit",
+        "text": "Profile README",
+        "fork": false,
+        "stars": 1,
+        "language": null,
+        "topics": [],
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Th3ProxyTools",
+        "url": "https://github.com/Th3Nekit/Th3ProxyTools",
+        "text": "exteraGram proxy manager plugin — mass ping, geo flags, import/export",
+        "fork": false,
+        "stars": 8,
+        "language": null,
+        "topics": [],
+        "visibility": "PUBLIC"
+      }
+    ]
+  }
+}

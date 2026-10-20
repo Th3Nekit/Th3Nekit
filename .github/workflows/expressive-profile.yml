@@ -1,0 +1,55 @@
+name: Refresh profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * *'
+  push:
+    branches: [main]
+    paths:
+      - profile.json
+      - project-styles.json
+      - .profile/refresh.mjs
+      - .profile/renderer/**
+      - .github/workflows/expressive-profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: expressive-profile
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: main
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '22'
+      - name: Render public profile data
+        run: node .profile/refresh.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Save generated assets
+        shell: bash
+        run: |
+          git add -- README.md .profile/public-data.json ':(top,glob)assets/*.svg'
+          node --input-type=module <<'NODE'
+          import { execFileSync } from 'node:child_process';
+          const paths = execFileSync('git', ['diff', '--cached', '--name-only', '-z'], { encoding: 'utf8' }).split('\0').filter(Boolean);
+          if (paths.some(path => path !== 'README.md' && path !== '.profile/public-data.json' && !/^assets\/[^/]+\.svg$/.test(path))) {
+            throw new Error('Unexpected staged path');
+          }
+          NODE
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Обновить данные профиля'
+          git push origin HEAD:main

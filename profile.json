@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "login": "Th3Nekit",
+  "seed": "#7C5CFC",
+  "seedFromAvatar": false,
+  "scheme": "expressive",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "projects",
+    "stack",
+    "buttons",
+    "wave"
+  ],
+  "hidden": [
+    "about",
+    "stats",
+    "streak"
+  ],
+  "hero": {
+    "greeting": "Привет, я",
+    "name": "Th3Nekit",
+    "subtitle": "Делаю приложения для Android и инструменты для Telegram.",
+    "typing": false,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "android",
+        "label": "Android"
+      },
+      {
+        "icon": "code",
+        "label": "Python"
+      },
+      {
+        "icon": "terminal",
+        "label": "Open source"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": []
+  },
+  "stack": {
+    "title": "С чем работаю",
+    "groups": [
+      {
+        "title": "Приложения",
+        "items": [
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "code",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:jetpackcompose",
+            "label": "Compose"
+          }
+        ]
+      },
+      {
+        "title": "Инструменты и боты",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:fastapi",
+            "label": "FastAPI"
+          },
+          {
+            "icon": "brand:telegram",
+            "label": "aiogram"
+          },
+          {
+            "icon": "terminal",
+            "label": "PowerShell"
+          }
+        ]
+      },
+      {
+        "title": "Серверы",
+        "items": [
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:nginx",
+            "label": "nginx"
+          },
+          {
+            "icon": "brand:sqlite",
+            "label": "SQLite"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "Finegram",
+      "Lean",
+      "Th3ProxyTools",
+      "pc-control-telegram",
+      "PinterestSaver",
+      "Socks5Hotspot",
+      "FileConverter"
+    ],
+    "overrides": {
+      "Finegram": {
+        "text": "Клиент Telegram для Android: плагины, обход блокировок и оформление.",
+        "icon": "chat_bubble",
+        "shape": "cookie12"
+      },
+      "Lean": {
+        "text": "VPN-клиент для Android. Подписки, свои конфиги и AmneziaWG.",
+        "icon": "shield",
+        "shape": "gem"
+      },
+      "Th3ProxyTools": {
+        "text": "Менеджер прокси для exteraGram: проверка пинга, импорт и экспорт.",
+        "icon": "hub",
+        "shape": "clover"
+      },
+      "pc-control-telegram": {
+        "text": "Управление компьютером на Windows через Telegram.",
+        "icon": "computer",
+        "shape": "soft"
+      },
+      "PinterestSaver": {
+        "text": "Приложение для пакетной загрузки изображений из Pinterest.",
+        "icon": "image",
+        "shape": "flower"
+      },
+      "Socks5Hotspot": {
+        "text": "Раздача Wi-Fi через SOCKS5 и VPN на Windows.",
+        "icon": "wifi",
+        "shape": "sunny"
+      },
+      "FileConverter": {
+        "text": "Собственная версия File Converter: конвертация файлов в Проводнике.",
+        "icon": "autorenew",
+        "shape": "pill"
+      }
+    },
+    "empty": "",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Публичная активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Публичных вкладов",
+    "repos": "Публичных репозиториев",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки публичных репозиториев",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Публичная активность",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "language",
+        "url": "https://th3web.com/author/"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/th3_nek1t"
+      },
+      {
+        "icon": "brand:spotify",
+        "url": "https://open.spotify.com/user/31cpmx7kalltfi2ol7xlccdbsdc24"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "shape": "soft",
+    "card": false
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "code",
+        "label": "Все репозитории",
+        "url": "https://github.com/Th3Nekit?tab=repositories",
+        "style": "filled"
+      },
+      {
+        "icon": "favorite",
+        "label": "Поддержать",
+        "url": "https://www.donationalerts.com/c/th3_nekit",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}

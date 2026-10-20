@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "name": "Finegram",
+      "seed": "#0061A4",
+      "scheme": "tonalSpot",
+      "icon": "chat_bubble",
+      "shape": "cookie12",
+      "subtitle": "Клиент Telegram для Android: плагины, обход блокировок и оформление."
+    },
+    {
+      "name": "Lean",
+      "seed": "#006A6A",
+      "scheme": "tonalSpot",
+      "icon": "shield",
+      "shape": "gem",
+      "subtitle": "VPN-клиент для Android. Подписки, свои конфиги и AmneziaWG."
+    },
+    {
+      "name": "Th3ProxyTools",
+      "seed": "#0061A4",
+      "scheme": "tonalSpot",
+      "icon": "hub",
+      "shape": "clover",
+      "subtitle": "Менеджер прокси для exteraGram: проверка пинга, импорт и экспорт."
+    },
+    {
+      "name": "pc-control-telegram",
+      "seed": "#3F6377",
+      "scheme": "tonalSpot",
+      "icon": "computer",
+      "shape": "soft",
+      "subtitle": "Управление компьютером на Windows через Telegram."
+    },
+    {
+      "name": "PinterestSaver",
+      "seed": "#9C4146",
+      "scheme": "tonalSpot",
+      "icon": "image",
+      "shape": "flower",
+      "subtitle": "Приложение для пакетной загрузки изображений из Pinterest."
+    },
+    {
+      "name": "Socks5Hotspot",
+      "seed": "#006A6A",
+      "scheme": "tonalSpot",
+      "icon": "wifi",
+      "shape": "sunny",
+      "subtitle": "Раздача Wi-Fi через SOCKS5 и VPN на Windows."
+    },
+    {
+      "name": "FileConverter",
+      "seed": "#006C4C",
+      "scheme": "tonalSpot",
+      "icon": "autorenew",
+      "shape": "pill",
+      "subtitle": "Собственная версия File Converter: конвертация файлов в Проводнике."
+    }
+  ]
+}
