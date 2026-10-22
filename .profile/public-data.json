@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Th3Nekit",
-  "capturedAt": "2026-10-21T09:21:46.594Z",
+  "capturedAt": "2026-10-22T09:24:48.007Z",
   "publicOnly": true,
   "statsPublicOnly": true,
   "data": {
@@ -149,7 +149,7 @@
         "url": "https://github.com/Th3Nekit/Lean",
         "text": "Lean — VPN-клиент для Android: обход блокировок, свои подписки и конфиги, AmneziaWG/XHTTP/NaiveProxy. GPL-3.0.",
         "fork": false,
-        "stars": 31,
+        "stars": 32,
         "language": "Kotlin",
         "topics": [
           "amneziawg",
@@ -263,7 +263,7 @@
         "url": "https://github.com/Th3Nekit/Lean",
         "text": "Lean — VPN-клиент для Android: обход блокировок, свои подписки и конфиги, AmneziaWG/XHTTP/NaiveProxy. GPL-3.0.",
         "fork": false,
-        "stars": 31,
+        "stars": 32,
         "language": "Kotlin",
         "topics": [
           "amneziawg",
