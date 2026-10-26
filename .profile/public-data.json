@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Th3Nekit",
-  "capturedAt": "2026-10-25T09:08:58.698Z",
+  "capturedAt": "2026-10-26T10:06:54.611Z",
   "publicOnly": true,
   "statsPublicOnly": true,
   "data": {
@@ -130,7 +130,7 @@
         "url": "https://github.com/Th3Nekit/Finegram",
         "text": "Finegram — клиент Telegram для Android на базе Cherrygram. Плагины, обход блокировок и настройки оформления.",
         "fork": false,
-        "stars": 7,
+        "stars": 8,
         "language": "Java",
         "topics": [
           "android",
@@ -244,7 +244,7 @@
         "url": "https://github.com/Th3Nekit/Finegram",
         "text": "Finegram — клиент Telegram для Android на базе Cherrygram. Плагины, обход блокировок и настройки оформления.",
         "fork": false,
-        "stars": 7,
+        "stars": 8,
         "language": "Java",
         "topics": [
           "android",
