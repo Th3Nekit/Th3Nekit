@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Th3Nekit",
-  "capturedAt": "2026-11-04T12:07:23.263Z",
+  "capturedAt": "2026-11-05T12:19:34.959Z",
   "publicOnly": true,
   "statsPublicOnly": true,
   "data": {
@@ -222,7 +222,7 @@
         "url": "https://github.com/Th3Nekit/FileConverter",
         "text": "File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.",
         "fork": true,
-        "stars": 17,
+        "stars": 18,
         "language": "C#",
         "topics": [],
         "visibility": "PUBLIC"
@@ -234,7 +234,7 @@
         "url": "https://github.com/Th3Nekit/FileConverter",
         "text": "File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.",
         "fork": true,
-        "stars": 17,
+        "stars": 18,
         "language": "C#",
         "topics": [],
         "visibility": "PUBLIC"
