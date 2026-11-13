@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Th3Nekit",
-  "capturedAt": "2026-11-12T12:42:07.646Z",
+  "capturedAt": "2026-11-13T12:12:15.665Z",
   "publicOnly": true,
   "statsPublicOnly": true,
   "data": {
@@ -9,15 +9,15 @@
     "languages": [
       [
         "Java",
-        79185257
+        79434513
       ],
       [
         "C++",
-        40962037
+        46323634
       ],
       [
         "C",
-        17200957
+        21793520
       ],
       [
         "Assembly",
@@ -25,11 +25,23 @@
       ],
       [
         "Kotlin",
-        3271743
+        3954049
+      ],
+      [
+        "Swift",
+        3674974
+      ],
+      [
+        "HTML",
+        3136251
+      ],
+      [
+        "TypeScript",
+        2522437
       ],
       [
         "Rust",
-        2291868
+        2433497
       ],
       [
         "Go",
@@ -41,23 +53,23 @@
       ],
       [
         "Objective-C++",
-        628426
+        1540896
+      ],
+      [
+        "JavaScript",
+        1446303
       ],
       [
         "Python",
-        449483
-      ],
-      [
-        "TypeScript",
-        423968
+        468002
       ],
       [
         "CMake",
-        321168
+        363371
       ],
       [
-        "Swift",
-        277717
+        "Shell",
+        186451
       ],
       [
         "Starlark",
@@ -76,28 +88,20 @@
         151797
       ],
       [
-        "Shell",
-        151247
-      ],
-      [
         "Objective-C",
-        84672
+        122017
       ],
       [
         "GLSL",
         80327
       ],
       [
-        "JavaScript",
-        77869
-      ],
-      [
-        "HTML",
-        61254
-      ],
-      [
         "Raku",
         23869
+      ],
+      [
+        "CSS",
+        18756
       ],
       [
         "MATLAB",
@@ -110,10 +114,6 @@
       [
         "Dockerfile",
         6638
-      ],
-      [
-        "CSS",
-        3304
       ],
       [
         "Linker Script",
@@ -130,7 +130,7 @@
         "url": "https://github.com/Th3Nekit/Finegram",
         "text": "Finegram — клиент Telegram для Android на базе Cherrygram. Плагины, обход блокировок и настройки оформления.",
         "fork": false,
-        "stars": 12,
+        "stars": 11,
         "language": "Java",
         "topics": [
           "android",
@@ -244,7 +244,7 @@
         "url": "https://github.com/Th3Nekit/Finegram",
         "text": "Finegram — клиент Telegram для Android на базе Cherrygram. Плагины, обход блокировок и настройки оформления.",
         "fork": false,
-        "stars": 12,
+        "stars": 11,
         "language": "Java",
         "topics": [
           "android",
