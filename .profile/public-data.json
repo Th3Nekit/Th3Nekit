@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "Th3Nekit",
-  "capturedAt": "2026-11-13T12:12:15.665Z",
+  "capturedAt": "2026-11-14T11:27:46.026Z",
   "publicOnly": true,
   "statsPublicOnly": true,
   "data": {
@@ -130,7 +130,7 @@
         "url": "https://github.com/Th3Nekit/Finegram",
         "text": "Finegram — клиент Telegram для Android на базе Cherrygram. Плагины, обход блокировок и настройки оформления.",
         "fork": false,
-        "stars": 11,
+        "stars": 12,
         "language": "Java",
         "topics": [
           "android",
@@ -222,7 +222,7 @@
         "url": "https://github.com/Th3Nekit/FileConverter",
         "text": "File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.",
         "fork": true,
-        "stars": 18,
+        "stars": 19,
         "language": "C#",
         "topics": [],
         "visibility": "PUBLIC"
@@ -234,7 +234,7 @@
         "url": "https://github.com/Th3Nekit/FileConverter",
         "text": "File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.",
         "fork": true,
-        "stars": 18,
+        "stars": 19,
         "language": "C#",
         "topics": [],
         "visibility": "PUBLIC"
@@ -244,7 +244,7 @@
         "url": "https://github.com/Th3Nekit/Finegram",
         "text": "Finegram — клиент Telegram для Android на базе Cherrygram. Плагины, обход блокировок и настройки оформления.",
         "fork": false,
-        "stars": 11,
+        "stars": 12,
         "language": "Java",
         "topics": [
           "android",
